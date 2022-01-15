@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nyalindung Aplication</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoicmFtZGhhbmpyMTEiLCJhIjoiY2txYWsyMXo1MDdhNjM0cGlnYmxtdmVmYiJ9.6qYbCPnN-dwHkLeOFPgZ5w</string>
+</resources>
