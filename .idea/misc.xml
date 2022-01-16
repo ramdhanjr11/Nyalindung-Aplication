@@ -3,11 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/activity_peta_nyalindung.xml" value="0.15896739130434784" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/fragment_jenis_kelamin.xml" value="0.15165876777251186" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/fragment_kelahiran.xml" value="0.15896739130434784" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/fragment_lahan_desa.xml" value="0.2" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/fragment_sumber_air.xml" value="0.15896739130434784" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/fragment_wilayah.xml" value="0.18" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/item_card_view.xml" value="0.25" />
+        <entry key="..\:/File-Perkuliahan/TeknikInformatika/Semester 7/Sistem Informasi Geografis - GIS/Tugas/uas-gis/Nyalindung Application/app/src/main/res/layout/item_card_view2.xml" value="0.33" />
         <entry key="..\:/File-Ramdhan/File-Perkuliahan/TeknikInformatika/Semester 7/GIS/Tugas/UAS/Program/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
